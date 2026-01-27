@@ -1,3 +1,20 @@
+# 朱浪 · OpensRun 创始人
+
+<p align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/中文-简体-brightgreen" /></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-EN-blue" /></a>
+  <a href="./README.ja.md"><img src="https://img.shields.io/badge/日本語-JA-orange" /></a>
+  <a href="./README.zh-TW.md"><img src="https://img.shields.io/badge/中文-繁體-red" /></a>
+  <a href="./README.de.md"><img src="https://img.shields.io/badge/Deutsch-DE-yellow" /></a>
+  <a href="./README.fr.md"><img src="https://img.shields.io/badge/Français-FR-lightgrey" /></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Español-ES-purple" /></a>
+  <a href="./README.pt.md"><img src="https://img.shields.io/badge/Português-PT-success" /></a>
+  <a href="./README.it.md"><img src="https://img.shields.io/badge/Italiano-IT-informational" /></a>
+  <a href="./README.uk.md"><img src="https://img.shields.io/badge/Українська-UK-yellowgreen" /></a>
+</p>
+
+---
+
 # Ciao, sono Zhulang 🤝
 
 Fondatore di OpensRun · Sviluppatore di applicazioni macOS/iOS · Sviluppatore full‑stack.  
@@ -12,12 +29,12 @@ Mi concentro su **ingegneria dell’IA in produzione, strumenti di produttività
 
 ## Chi sono
 
-- 🧑‍💻 Oltre 10 anni di esperienza nello sviluppo macOS / iOS, da ingegnere interno a sviluppatore indipendente e fondatore.  
-- 🚀 Nel 2022 ho fondato **OpensRun**, lavorando su prodotti come **Yulan** (assistente macOS) e **YanciPai** (app per lo studio dell’inglese).  
-- 🤖 Bravo a **trasformare le capacità dell’IA in prodotti concreti**, coprendo l’intero ciclo: design, scelte tecniche, sviluppo e rilascio.  
-- 🛡 Esperienza in **reverse engineering, sicurezza degli endpoint e meccanismi di protezione del sistema**.  
-- 🌐 Interessato a **Web3.0, decentralizzazione e sovranità dei dati**, con attenzione agli scenari reali.  
-- 🌈 Sviluppatore **full‑stack** su frontend, backend e client.  
+- 🧑‍💻 Oltre 10 anni di esperienza nello sviluppo macOS / iOS, da ingegnere interno a sviluppatore indipendente e fondatore。  
+- 🚀 Nel 2022 ho fondato **OpensRun**, lavorando su prodotti come **Yulan** (assistente macOS) e **YanciPai** (app per lo studio dell’inglese)。  
+- 🤖 Bravo a **trasformare le capacità dell’IA in prodotti concreti**, coprendo l’intero ciclo: design, scelte tecniche, sviluppo e rilascio。  
+- 🛡 Esperienza in **reverse engineering, sicurezza degli endpoint e meccanismi di protezione del sistema**。  
+- 🌐 Interessato a **Web3.0, decentralizzazione e sovranità dei dati**, con attenzione agli scenari reali。  
+- 🌈 Sviluppatore **full‑stack** su frontend, backend e client。  
 
 ---
 
@@ -28,21 +45,21 @@ All’inizio del 2022 ho creato **OpensRun**:
 - **Run**: continuare a correre anche nell’incertezza  
 
 Dall’esperienza nel settore educativo ho capito che:  
-- L’educazione non dovrebbe ruotare solo intorno ai voti.  
-- La tecnologia non dovrebbe essere uno strumento per creare ansia.  
+- L’educazione non dovrebbe ruotare solo intorno ai voti。  
+- La tecnologia non dovrebbe essere uno strumento per creare ansia。  
 
-Con lo sviluppo rapido dell’IA, l’idea che “contano solo i voti” ha sempre meno senso.  
+Con lo sviluppo rapido dell’IA, l’idea che “contano solo i voti” ha sempre meno senso。  
 Per questo ho deciso di **tornare al prodotto e all’ingegneria** e concentrarmi su:
 
 > Creare strumenti realmente utili e duraturi,  
-> Fare in modo che IA e software **riducano il carico e aumentino l’efficienza, senza amplificare l’ansia**.  
+> Fare in modo che IA e software **riducano il carico e aumentino l’efficienza, senza amplificare l’ansia**。  
 
 ---
 
-## 📫 Contatti
+## Contatti
 
 - 📧 E‑mail: `610730060@qq.com`  
 - 🌐 Sito web: [`https://www.opens.run`](https://www.opens.run)  
 
-Se ti interessano **IA applicata, sviluppo macOS/iOS, reverse engineering, sicurezza degli endpoint, Web3.0, software educativo o prodotti full‑stack**, sarò felice di parlarne.  
+Se ti interessano **IA applicata, sviluppo macOS/iOS, reverse engineering, sicurezza degli endpoint, Web3.0, software educativo o prodotti full‑stack**, sarò felice di parlarne。  
 

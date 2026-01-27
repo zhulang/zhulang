@@ -1,3 +1,20 @@
+# 朱浪 · OpensRun 创始人
+
+<p align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/中文-简体-brightgreen" /></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-EN-blue" /></a>
+  <a href="./README.ja.md"><img src="https://img.shields.io/badge/日本語-JA-orange" /></a>
+  <a href="./README.zh-TW.md"><img src="https://img.shields.io/badge/中文-繁體-red" /></a>
+  <a href="./README.de.md"><img src="https://img.shields.io/badge/Deutsch-DE-yellow" /></a>
+  <a href="./README.fr.md"><img src="https://img.shields.io/badge/Français-FR-lightgrey" /></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Español-ES-purple" /></a>
+  <a href="./README.pt.md"><img src="https://img.shields.io/badge/Português-PT-success" /></a>
+  <a href="./README.it.md"><img src="https://img.shields.io/badge/Italiano-IT-informational" /></a>
+  <a href="./README.uk.md"><img src="https://img.shields.io/badge/Українська-UK-yellowgreen" /></a>
+</p>
+
+---
+
 # 你好，我是 朱浪 🤝
 
 OpensRun 創始人 · macOS/iOS 應用開發工程師 · 全端開發者  
@@ -142,7 +159,7 @@ OpensRun 創始人 · macOS/iOS 應用開發工程師 · 全端開發者
 
 ---
 
-## 📫 聯絡方式
+## 聯絡方式
 
 - 📧 信箱：`610730060@qq.com`  
 - 🌐 官網：[`https://www.opens.run`](https://www.opens.run)  

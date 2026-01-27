@@ -1,3 +1,20 @@
+# 朱浪 · OpensRun 创始人
+
+<p align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/中文-简体-brightgreen" /></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-EN-blue" /></a>
+  <a href="./README.ja.md"><img src="https://img.shields.io/badge/日本語-JA-orange" /></a>
+  <a href="./README.zh-TW.md"><img src="https://img.shields.io/badge/中文-繁體-red" /></a>
+  <a href="./README.de.md"><img src="https://img.shields.io/badge/Deutsch-DE-yellow" /></a>
+  <a href="./README.fr.md"><img src="https://img.shields.io/badge/Français-FR-lightgrey" /></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Español-ES-purple" /></a>
+  <a href="./README.pt.md"><img src="https://img.shields.io/badge/Português-PT-success" /></a>
+  <a href="./README.it.md"><img src="https://img.shields.io/badge/Italiano-IT-informational" /></a>
+  <a href="./README.uk.md"><img src="https://img.shields.io/badge/Українська-UK-yellowgreen" /></a>
+</p>
+
+---
+
 # Hallo, ich bin Zhulang 🤝
 
 Gründer von OpensRun · macOS/iOS‑Entwickler · Full‑Stack‑Engineer.  
@@ -108,7 +125,7 @@ Deshalb habe ich mich entschieden, **zu Produkt und Engineering selbst zurückzu
 - **„YiguanTong“ iOS‑App** (Shanghai Kangcheng Hospital Management Consulting)  
   - End‑to‑End‑Entwicklung von Version 0 → 1 und weitere Iterationen  
 
-> Einige Projekte unterliegen Vertraulichkeit; der Code ist nicht öffentlich, die Erfahrungen sind hier nur beschrieben.  
+> Einige Projekte unterliegen Vertraulichkeit; der Code ist nicht öffentlich, die Erfahrungen sind hier nur beschrieben。  
 
 ---
 
@@ -129,10 +146,10 @@ Vor der Softwareentwicklung war ich als Ingenieur in der Mechanikabteilung bei *
 
 ---
 
-## 📫 Kontakt
+## Kontakt
 
 - 📧 E‑Mail: `610730060@qq.com`  
 - 🌐 Website: [`https://www.opens.run`](https://www.opens.run)  
 
-Wenn Sie sich für **AI‑Engineering, macOS/iOS‑Entwicklung, Reverse Engineering, Endpoint‑Security, Web3.0, Bildungstechnologie oder Full‑Stack‑Produkte** interessieren, freue ich mich auf den Austausch.  
+Wenn Sie sich für **AI‑Engineering, macOS/iOS‑Entwicklung, Reverse Engineering, Endpoint‑Security, Web3.0, Bildungstechnologie oder Full‑Stack‑Produkte** interessieren, freue ich mich auf den Austausch。  
 

@@ -1,3 +1,20 @@
+# 朱浪 · OpensRun 创始人
+
+<p align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/中文-简体-brightgreen" /></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-EN-blue" /></a>
+  <a href="./README.ja.md"><img src="https://img.shields.io/badge/日本語-JA-orange" /></a>
+  <a href="./README.zh-TW.md"><img src="https://img.shields.io/badge/中文-繁體-red" /></a>
+  <a href="./README.de.md"><img src="https://img.shields.io/badge/Deutsch-DE-yellow" /></a>
+  <a href="./README.fr.md"><img src="https://img.shields.io/badge/Français-FR-lightgrey" /></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Español-ES-purple" /></a>
+  <a href="./README.pt.md"><img src="https://img.shields.io/badge/Português-PT-success" /></a>
+  <a href="./README.it.md"><img src="https://img.shields.io/badge/Italiano-IT-informational" /></a>
+  <a href="./README.uk.md"><img src="https://img.shields.io/badge/Українська-UK-yellowgreen" /></a>
+</p>
+
+---
+
 # Bonjour, je suis Zhulang 🤝
 
 Fondateur d’OpensRun · Ingénieur macOS/iOS · Développeur full‑stack.  
@@ -12,12 +29,12 @@ Je me consacre à **l’industrialisation de l’IA, aux outils de productivité
 
 ## À propos de moi
 
-- 🧑‍💻 Plus de 10 ans d’expérience en développement macOS / iOS, du poste d’ingénieur interne à celui de développeur indépendant et fondateur.  
-- 🚀 En 2022, j’ai fondé **OpensRun** et je développe des produits comme **Yulan** (assistant intelligent macOS) et **YanciPai** (outil d’apprentissage de l’anglais).  
-- 🤖 Capable de **transformer les capacités de l’IA en produits concrets**, de la conception au choix technique, jusqu’au développement et à la mise en production.  
-- 🛡 Solide expérience en **reverse engineering, sécurité des terminaux et mécanismes de protection du système**.  
-- 🌐 Intérêt marqué pour **le Web3.0, la décentralisation et la souveraineté des données**, avec une approche orientée produit.  
-- 🌈 Profil **full‑stack** couvrant le frontend, le backend et les apps clientes.  
+- 🧑‍💻 Plus de 10 ans d’expérience en développement macOS / iOS, du poste d’ingénieur interne à celui de développeur indépendant et fondateur。  
+- 🚀 En 2022, j’ai fondé **OpensRun** et je développe des produits comme **Yulan** (assistant intelligent macOS) et **YanciPai** (outil d’apprentissage de l’anglais)。  
+- 🤖 Capable de **transformer les capacités de l’IA en produits concrets**, de la conception au choix technique, jusqu’au développement et à la mise en production。  
+- 🛡 Solide expérience en **reverse engineering, sécurité des terminaux et mécanismes de protection du système**。  
+- 🌐 Intérêt marqué pour **le Web3.0, la décentralisation et la souveraineté des données**, avec une approche orientée produit。  
+- 🌈 Profil **full‑stack** couvrant le frontend, le backend et les apps clientes。  
 
 ---
 
@@ -28,14 +45,14 @@ Au début de 2022, j’ai créé **OpensRun** :
 - **Run** : continuer à avancer malgré l’incertitude  
 
 Après une expérience dans l’éducation, j’ai réalisé que :  
-- L’éducation ne devrait pas être centrée uniquement sur les notes.  
-- La technologie ne devrait pas servir à générer de l’angoisse.  
+- L’éducation ne devrait pas être centrée uniquement sur les notes。  
+- La technologie ne devrait pas servir à générer de l’angoisse。  
 
-Avec l’essor rapide de l’IA, la logique du « tout pour la note » perd encore plus de sens.  
+Avec l’essor rapide de l’IA, la logique du « tout pour la note » perd encore plus de sens。  
 J’ai donc choisi de **revenir au produit et à l’ingénierie eux‑mêmes**, pour me concentrer sur :
 
 > Créer des outils réellement utiles, capables d’accompagner les utilisateurs sur le long terme,  
-> Faire en sorte que l’IA et les logiciels **allègent la charge, améliorent l’efficacité et ne renforcent pas l’anxiété**.  
+> Faire en sorte que l’IA et les logiciels **allègent la charge, améliorent l’efficacité et ne renforcent pas l’anxiété**。  
 
 ---
 
@@ -87,10 +104,10 @@ J’ai donc choisi de **revenir au produit et à l’ingénierie eux‑mêmes**,
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 E‑mail : `610730060@qq.com`  
 - 🌐 Site : [`https://www.opens.run`](https://www.opens.run)  
 
-Si vous vous intéressez à **l’IA appliquée, au développement macOS/iOS, au reverse engineering, à la sécurité des terminaux, au Web3.0, aux logiciels éducatifs ou aux produits full‑stack**, n’hésitez pas à me contacter.  
+Si vous vous intéressez à **l’IA appliquée, au développement macOS/iOS, au reverse engineering, à la sécurité des terminaux, au Web3.0, aux logiciels éducatifs ou aux produits full‑stack**, n’hésitez pas à me contacter。  
 
