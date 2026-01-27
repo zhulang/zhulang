@@ -1,4 +1,3 @@
-# 朱浪 · OpensRun 创始人
 
 <p align="center">
   <a href="./README.md"><img src="https://img.shields.io/badge/中文-简体-brightgreen" /></a>
@@ -17,7 +16,7 @@
 
 # こんにちは、朱浪（Zhulang）です 🤝
 
-OpensRun 創業者・macOS/iOS アプリケーションエンジニア・フルスタック開発者。  
+**OpensRun 創業者・macOS/iOS アプリケーションエンジニア・フルスタック開発者**  
 **AI 実用化・macOS 生産性ツール・エンドポイントセキュリティ・リバースエンジニアリング・Web3.0** に注力しています。
 
 [![macOS](https://img.shields.io/badge/Platform-macOS-000000?style=flat&logo=apple&logoColor=white)]()

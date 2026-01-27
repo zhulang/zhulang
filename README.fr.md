@@ -17,7 +17,7 @@
 
 # Bonjour, je suis Zhulang 🤝
 
-Fondateur d’OpensRun · Ingénieur macOS/iOS · Développeur full‑stack.  
+**Fondateur d’OpensRun · Ingénieur macOS/iOS · Développeur full‑stack**  
 Je me consacre à **l’industrialisation de l’IA, aux outils de productivité macOS, à la sécurité des terminaux, au reverse engineering et à l’exploration du Web3.0**.
 
 [![macOS](https://img.shields.io/badge/Platform-macOS-000000?style=flat&logo=apple&logoColor=white)]()

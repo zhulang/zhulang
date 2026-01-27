@@ -1,4 +1,3 @@
-# 朱浪 · OpensRun 创始人
 
 <p align="center">
   <a href="./README.md"><img src="https://img.shields.io/badge/中文-简体-brightgreen" /></a>
@@ -17,7 +16,7 @@
 
 # Hello, I'm Zhulang 🤝
 
-Founder of OpensRun · macOS/iOS application engineer · Full‑stack developer  
+**Founder of OpensRun · macOS/iOS application engineer · Full‑stack developer**  
 Focused on **AI engineering in production · macOS productivity tools · endpoint security · reverse engineering · Web3.0 exploration**
 
 [![macOS](https://img.shields.io/badge/Platform-macOS-000000?style=flat&logo=apple&logoColor=white)]()

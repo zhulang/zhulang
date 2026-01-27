@@ -1,4 +1,3 @@
-# 朱浪 · OpensRun 创始人
 
 <p align="center">
   <a href="./README.md"><img src="https://img.shields.io/badge/中文-简体-brightgreen" /></a>
@@ -17,8 +16,8 @@
 
 # Привіт, я Чжу Лан (Zhulang) 🤝
 
-Засновник OpensRun · розробник застосунків для macOS/iOS · full‑stack інженер。  
-Зосереджуюся на **практичній інженерії ШІ, інструментах продуктивності для macOS, безпеці кінцевих пристроїв, зворотній розробці та Web3.0**。
+**Засновник OpensRun · розробник застосунків для macOS/iOS · full‑stack інженер**  
+Зосереджуюся на **практичній інженерії ШІ, інструментах продуктивності для macOS, безпеці кінцевих пристроїв, зворотній розробці та Web3.0**
 
 [![macOS](https://img.shields.io/badge/Platform-macOS-000000?style=flat&logo=apple&logoColor=white)]()
 [![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat&logo=apple&logoColor=white)]()
