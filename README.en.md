@@ -3,7 +3,6 @@
   <a href="./README.md"><img src="https://img.shields.io/badge/中文-简体-brightgreen" /></a>
   <a href="./README.en.md"><img src="https://img.shields.io/badge/English-EN-blue" /></a>
   <a href="./README.ja.md"><img src="https://img.shields.io/badge/日本語-JA-orange" /></a>
-  <a href="./README.zh-TW.md"><img src="https://img.shields.io/badge/中文-繁體-red" /></a>
   <a href="./README.de.md"><img src="https://img.shields.io/badge/Deutsch-DE-yellow" /></a>
   <a href="./README.fr.md"><img src="https://img.shields.io/badge/Français-FR-lightgrey" /></a>
   <a href="./README.es.md"><img src="https://img.shields.io/badge/Español-ES-purple" /></a>
@@ -28,12 +27,12 @@ Focused on **AI engineering in production · macOS productivity tools · endpoin
 
 ## About Me
 
-- 🧑‍💻 10+ years of macOS / iOS development experience, from in‑house engineer to indie developer and founder.  
-- 🚀 Founded **OpensRun** in 2022, building products like **Yulan** (macOS AI assistant) and **YanciPai** (exam English learning tool).  
-- 🤖 Strong at **turning AI capabilities into real products**: from product design and tech choices to development, release, and long‑term operation.  
-- 🛡 Experienced in **reverse engineering / endpoint security / system protection mechanisms**, with a good understanding of low‑level system behavior and security boundaries.  
-- 🌐 Interested in **Web3.0 / decentralization / data sovereignty**, thinking about how they can land in real‑world products.  
-- 🌈 Comfortable working across **frontend + backend + client** as a full‑stack product engineer and architect.  
+-  10+ years of macOS / iOS development experience, from in‑house engineer to indie developer and founder.  
+-  Founded **OpensRun** in 2022, building products like **Yulan** (macOS AI assistant) and **YanciPai** (exam English learning tool).  
+-  Strong at **turning AI capabilities into real products**: from product design and tech choices to development, release, and long‑term operation.  
+-  Experienced in **reverse engineering / endpoint security / system protection mechanisms**, with a good understanding of low‑level system behavior and security boundaries.  
+-  Interested in **Web3.0 / decentralization / data sovereignty**, thinking about how they can land in real‑world products.  
+-  Comfortable working across **frontend + backend + client** as a full‑stack product engineer and architect.  
 
 ---
 
@@ -57,7 +56,7 @@ So I chose to **return to product and engineering themselves**, and focus my ene
 
 ## Tech Stack & Skills
 
-### 🛠 Platforms & Languages
+### Platforms & Languages
 
 - **Client**
   - Native macOS / iOS development  
@@ -69,14 +68,14 @@ So I chose to **return to product and engineering themselves**, and focus my ene
   - Backend: experienced with Python and related stacks, able to design and implement APIs and backend services  
   - Can independently deliver a full product across **frontend + backend + client**  
 
-### 🤖 AI Engineering
+### AI Engineering
 
 - Integrating **local models and remote LLMs** into macOS apps (e.g., Yulan)  
 - Familiar with multi‑source search, RAG retrieval, context management, tool‑calling and common AI app patterns  
 - Careful about latency, resource usage and privacy, balancing “performance” and “deployability”  
 - Practical experience combining AI with **desktop system‑level capabilities** (global search, quick launcher, system integration, etc.)  
 
-### 🛡 Reverse Engineering, Security & System
+### Reverse Engineering, Security & System
 
 - Experienced with URLSession concurrency, NetworkExtension and other networking frameworks  
 - Familiar with CommonCrypto / Security / EndpointSecurity and related security frameworks  
@@ -84,13 +83,13 @@ So I chose to **return to product and engineering themselves**, and focus my ene
 - Hands‑on experience with **reverse engineering / endpoint security tools**, understanding syscalls, permission models and sandboxing  
 - Able to think about endpoint protection and app security from a “defender” perspective  
 
-### 🌐 Web3.0 & Future Software Forms
+### Web3.0 & Future Software Forms
 
 - Continuously tracking Web3.0: decentralization, digital assets, data sovereignty, etc.  
 - Focus more on “how to use these ideas properly in products” rather than hype and speculation  
 - When designing products, always balance **“practical now” + “future extensibility”**  
 
-### 🧩 Engineering Practices
+### Engineering Practices
 
 - Architecture: expert in **MVVM**, familiar with Combine and other async frameworks  
 - Tooling: proficient in **Xcode / Instruments / lldb** for performance and memory analysis  
@@ -101,7 +100,7 @@ So I chose to **return to product and engineering themselves**, and focus my ene
 
 ## Selected Works
 
-### 💻 Yulan · macOS Intelligent Assistant
+###  Yulan · macOS Intelligent Assistant
 
 - macOS assistant with **multi‑source search / quick launch / intelligent analysis**  
 - Deep integration of local and remote AI models into desktop workflows  
@@ -109,7 +108,7 @@ So I chose to **return to product and engineering themselves**, and focus my ene
 
 ---
 
-### 📱 YanciPai · iOS Exam English Learning Tool
+###  YanciPai · iOS Exam English Learning Tool
 
 - Focused on vocabulary learning and memorization for exam English  
 - Uses content organization and interaction design to reduce wasted effort  
@@ -117,7 +116,7 @@ So I chose to **return to product and engineering themselves**, and focus my ene
 
 ---
 
-### 📲 Early iOS Projects (Selected)
+###  Early iOS Projects (Selected)
 
 - **“NexT+” Enterprise Collaboration Suite** (Jiangsu Yisen Network Technology Co., Ltd.)  
   - Responsible for multiple core modules:  
@@ -131,14 +130,12 @@ So I chose to **return to product and engineering themselves**, and focus my ene
 
 ---
 
-## Education
+## 🎓Education
 
-- 🎓 **Nanjing University** · Information Management & Information Systems · Bachelor (top‑up program)  
+-  **Nanjing University** · Information Management & Information Systems · Bachelor (top‑up program)  
   2014.03 – 2017.09  
-  - High scores in all major courses  
-  - Graduation thesis successfully predicted the stock price trend of one platform and analyzed its merger trend with another platform  
 
-- 🎓 **Jiangsu City Vocational College** · Mechatronics / Computer Application Technology · Associate Degree  
+-  **Jiangsu City Vocational College** · Mechatronics / Computer Application Technology · Associate Degree  
   2005.09 – 2009.07  
 
 ---
