@@ -1,0 +1,96 @@
+# Bonjour, je suis Zhulang 🤝
+
+Fondateur d’OpensRun · Ingénieur macOS/iOS · Développeur full‑stack.  
+Je me consacre à **l’industrialisation de l’IA, aux outils de productivité macOS, à la sécurité des terminaux, au reverse engineering et à l’exploration du Web3.0**.
+
+[![macOS](https://img.shields.io/badge/Platform-macOS-000000?style=flat&logo=apple&logoColor=white)]()
+[![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat&logo=apple&logoColor=white)]()
+[![AI Engineering](https://img.shields.io/badge/Focus-AI_Engineering-4b8bbe?style=flat)]()
+[![Fullstack](https://img.shields.io/badge/Role-Fullstack_Developer-2bbc8a?style=flat)]()
+
+---
+
+## À propos de moi
+
+- 🧑‍💻 Plus de 10 ans d’expérience en développement macOS / iOS, du poste d’ingénieur interne à celui de développeur indépendant et fondateur.  
+- 🚀 En 2022, j’ai fondé **OpensRun** et je développe des produits comme **Yulan** (assistant intelligent macOS) et **YanciPai** (outil d’apprentissage de l’anglais).  
+- 🤖 Capable de **transformer les capacités de l’IA en produits concrets**, de la conception au choix technique, jusqu’au développement et à la mise en production.  
+- 🛡 Solide expérience en **reverse engineering, sécurité des terminaux et mécanismes de protection du système**.  
+- 🌐 Intérêt marqué pour **le Web3.0, la décentralisation et la souveraineté des données**, avec une approche orientée produit.  
+- 🌈 Profil **full‑stack** couvrant le frontend, le backend et les apps clientes.  
+
+---
+
+## Ma philosophie
+
+Au début de 2022, j’ai créé **OpensRun** :  
+- **Open** : garder un esprit ouvert et curieux  
+- **Run** : continuer à avancer malgré l’incertitude  
+
+Après une expérience dans l’éducation, j’ai réalisé que :  
+- L’éducation ne devrait pas être centrée uniquement sur les notes.  
+- La technologie ne devrait pas servir à générer de l’angoisse.  
+
+Avec l’essor rapide de l’IA, la logique du « tout pour la note » perd encore plus de sens.  
+J’ai donc choisi de **revenir au produit et à l’ingénierie eux‑mêmes**, pour me concentrer sur :
+
+> Créer des outils réellement utiles, capables d’accompagner les utilisateurs sur le long terme,  
+> Faire en sorte que l’IA et les logiciels **allègent la charge, améliorent l’efficacité et ne renforcent pas l’anxiété**.  
+
+---
+
+## Stack technique & compétences
+
+### 🛠 Plateformes & langages
+
+- **Client**
+  - Développement natif macOS / iOS  
+  - Maîtrise de Swift, bonne expérience en Objective‑C et C++  
+  - Conception d’UI complexes avec Xib, Storyboard, AppKit et SwiftUI  
+
+- **Full‑stack**
+  - Frontend web avec des frameworks modernes (React, etc.)  
+  - Backend en Python, conception et implémentation de services et d’API  
+  - Capacité à livrer un produit complet **frontend + backend + client** en autonomie  
+
+### 🤖 Ingénierie de l’IA
+
+- Intégration de **modèles locaux et de LLM distants** dans des apps macOS (par ex. Yulan)  
+- Connaissance de la recherche multi‑source, du RAG, de la gestion de contexte et de l’orchestration d’outils  
+- Prise en compte de la latence, de l’usage des ressources et de la vie privée, avec un fort souci de la mise en production  
+- Expérience dans l’intégration de l’IA avec des **fonctionnalités système de bureau** (recherche globale, lanceur, intégration système)  
+
+### 🛡 Sécurité, reverse engineering & système
+
+- Maîtrise d’URLSession, NetworkExtension et autres frameworks réseau  
+- Connaissance de CommonCrypto, Security, EndpointSecurity  
+- Expérience d’interaction logiciel‑matériel via USB / Bluetooth  
+- Pratique des outils de **reverse engineering et de sécurité des terminaux**, compréhension des appels système, du modèle de permissions et du sandboxing  
+
+---
+
+## Projets principaux
+
+### 💻 Yulan · Assistant intelligent pour macOS
+
+- Assistant macOS proposant **recherche multi‑source, lancement rapide et analyse intelligente**  
+- Intégration profonde de modèles locaux et distants dans les workflows de bureau  
+- Vise **l’usage réel de l’IA dans les scénarios métiers**, au‑delà d’une simple interface de chat  
+
+---
+
+### 📱 YanciPai · Outil iOS pour l’anglais de concours
+
+- Application dédiée à l’apprentissage et à la mémorisation du vocabulaire d’anglais de concours  
+- Organisation du contenu et design d’interaction pensés pour limiter les efforts inutiles  
+- Objectif : trouver un équilibre entre **efficacité** et **charge mentale raisonnable**  
+
+---
+
+## 📫 Contact
+
+- 📧 E‑mail : `610730060@qq.com`  
+- 🌐 Site : [`https://www.opens.run`](https://www.opens.run)  
+
+Si vous vous intéressez à **l’IA appliquée, au développement macOS/iOS, au reverse engineering, à la sécurité des terminaux, au Web3.0, aux logiciels éducatifs ou aux produits full‑stack**, n’hésitez pas à me contacter.  
+

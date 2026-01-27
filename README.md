@@ -1,5 +1,62 @@
 # Zhulang · OpensRun
 
+<p align="center">
+  <a href="./README.zh-CN.md"><img src="https://img.shields.io/badge/中文-简体-brightgreen" /></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-EN-blue" /></a>
+  <a href="./README.ja.md"><img src="https://img.shields.io/badge/日本語-JA-orange" /></a>
+  <a href="./README.zh-TW.md"><img src="https://img.shields.io/badge/中文-繁體-red" /></a>
+  <a href="./README.de.md"><img src="https://img.shields.io/badge/Deutsch-DE-yellow" /></a>
+  <a href="./README.fr.md"><img src="https://img.shields.io/badge/Français-FR-lightgrey" /></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Español-ES-purple" /></a>
+  <a href="./README.pt.md"><img src="https://img.shields.io/badge/Português-PT-success" /></a>
+  <a href="./README.it.md"><img src="https://img.shields.io/badge/Italiano-IT-informational" /></a>
+  <a href="./README.uk.md"><img src="https://img.shields.io/badge/Українська-UK-yellowgreen" /></a>
+</p>
+
+---
+
+## 简体中文
+
+完整中文介绍请见：[`README.zh-CN.md`](./README.zh-CN.md)
+
+## English
+
+Full English profile: [`README.en.md`](./README.en.md)
+
+## 日本語
+
+日本語プロフィールはこちら：[`README.ja.md`](./README.ja.md)
+
+## 繁體中文
+
+繁體中文介紹請見：[`README.zh-TW.md`](./README.zh-TW.md)
+
+## Deutsch
+
+Deutsches Profil: [`README.de.md`](./README.de.md)
+
+## Français
+
+Profil en français : [`README.fr.md`](./README.fr.md)
+
+## Español
+
+Perfil en español: [`README.es.md`](./README.es.md)
+
+## Português
+
+Perfil em português: [`README.pt.md`](./README.pt.md)
+
+## Italiano
+
+Profilo in italiano: [`README.it.md`](./README.it.md)
+
+## Українська
+
+Профіль українською: [`README.uk.md`](./README.uk.md)
+
+# Zhulang · OpensRun
+
 ## 🌐 Language / 语言 / 言語 / Langues / Idiomas
 
 - [简体中文](#简体中文)
