@@ -131,7 +131,7 @@ J’ai donc choisi de **revenir au produit et à l’ingénierie eux‑mêmes**,
 
 ---
 
-## 🎓 Formation
+## Formation
 
 -  **Nanjing University** · Information Management & Information Systems · Licence (programme de transition)  
   2014.03 – 2017.09
@@ -158,8 +158,8 @@ Cette expérience m'a donné :
 
 ## Contact
 
-- 📧 E‑mail : `610730060@qq.com`  
-- 🌐 Site : [`https://www.opens.run`](https://www.opens.run)  
+- E‑mail : `610730060@qq.com`  
+- Site : [`https://www.opens.run`](https://www.opens.run)  
 
 Si vous vous intéressez à **l’IA appliquée, au développement macOS/iOS, au reverse engineering, à la sécurité des terminaux, au Web3.0, aux logiciels éducatifs ou aux produits full‑stack**, n’hésitez pas à me contacter。  
 

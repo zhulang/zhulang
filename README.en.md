@@ -130,7 +130,7 @@ So I chose to **return to product and engineering themselves**, and focus my ene
 
 ---
 
-## 🎓Education
+## Education
 
 -  **Nanjing University** · Information Management & Information Systems · Bachelor (top‑up program)  
   2014.03 – 2017.09  
@@ -157,8 +157,8 @@ This experience gave me:
 
 ## Contact
 
-- 📧 Email: `610730060@qq.com`  
-- 🌐 Website: [`https://www.opens.run`](https://www.opens.run)  
+- Email: `610730060@qq.com`  
+- Website: [`https://www.opens.run`](https://www.opens.run)  
 
 If you’re interested in **AI in production, macOS/iOS development, reverse engineering, endpoint security, Web3.0, educational software or full‑stack product development**, feel free to reach out.  
 

@@ -130,7 +130,7 @@ Por isso, decidi **voltar ao produto e à engenharia** e focar em:
 
 ---
 
-## 🎓 Educação
+## Educação
 
 -  **Nanjing University** · Information Management & Information Systems · Bacharelado (programa de transição)  
   2014.03 – 2017.09
@@ -157,8 +157,8 @@ Esta experiência me deu:
 
 ## Contato
 
-- 📧 E‑mail: `610730060@qq.com`  
-- 🌐 Site: [`https://www.opens.run`](https://www.opens.run)  
+- E‑mail: `610730060@qq.com`  
+- Site: [`https://www.opens.run`](https://www.opens.run)  
 
 Se você se interessa por **engenharia de IA aplicada, desenvolvimento macOS/iOS, engenharia reversa, segurança de endpoint, Web3.0, software educacional ou produtos full‑stack**, vamos conversar。  
 

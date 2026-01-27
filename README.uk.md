@@ -130,7 +130,7 @@
 
 ---
 
-## 🎓 Освіта
+## Освіта
 
 -  **Nanjing University** · Information Management & Information Systems · Бакалавр (програма переходу)  
   2014.03 – 2017.09
@@ -157,8 +157,8 @@
 
 ## Контакти
 
-- 📧 E‑mail: `610730060@qq.com`  
-- 🌐 Вебсайт: [`https://www.opens.run`](https://www.opens.run)  
+- E‑mail: `610730060@qq.com`  
+- Вебсайт: [`https://www.opens.run`](https://www.opens.run)  
 
 Якщо вам цікаві **практичний ШІ, розробка під macOS/iOS, зворотня розробка, безпека кінцевих пристроїв, Web3.0, освітнє ПЗ або full‑stack продукти**, буду радий поспілкуватися。  
 

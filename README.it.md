@@ -131,7 +131,7 @@ Per questo ho deciso di **tornare al prodotto e all’ingegneria** e concentrarm
 
 ---
 
-## 🎓 Istruzione
+## Istruzione
 
 -  **Nanjing University** · Information Management & Information Systems · Laurea (programma di transizione)  
   2014.03 – 2017.09
@@ -158,8 +158,8 @@ Questa esperienza mi ha dato:
 
 ## Contatti
 
-- 📧 E‑mail: `610730060@qq.com`  
-- 🌐 Sito web: [`https://www.opens.run`](https://www.opens.run)  
+- E‑mail: `610730060@qq.com`  
+- Sito web: [`https://www.opens.run`](https://www.opens.run)  
 
 Se ti interessano **IA applicata, sviluppo macOS/iOS, reverse engineering, sicurezza degli endpoint, Web3.0, software educativo o prodotti full‑stack**, sarò felice di parlarne。  
 

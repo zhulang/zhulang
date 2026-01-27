@@ -127,7 +127,7 @@ Deshalb habe ich mich entschieden, **zu Produkt und Engineering selbst zurückzu
 
 ---
 
-## 🎓 Ausbildung
+## Ausbildung
 
 -  **Nanjing University** · Information Management & Information Systems · Bachelor (Top‑Up)  
   2014.03 – 2017.09
@@ -149,8 +149,8 @@ Vor der Softwareentwicklung war ich als Ingenieur in der Mechanikabteilung bei *
 
 ## Kontakt
 
-- 📧 E‑Mail: `610730060@qq.com`  
-- 🌐 Website: [`https://www.opens.run`](https://www.opens.run)  
+- E‑Mail: `610730060@qq.com`  
+- Website: [`https://www.opens.run`](https://www.opens.run)  
 
 Wenn Sie sich für **AI‑Engineering, macOS/iOS‑Entwicklung, Reverse Engineering, Endpoint‑Security, Web3.0, Bildungstechnologie oder Full‑Stack‑Produkte** interessieren, freue ich mich auf den Austausch。  
 
