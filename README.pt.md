@@ -132,11 +132,7 @@ Por isso, decidi **voltar ao produto e à engenharia** e focar em:
 
 ## Educação
 
--  **Nanjing University** · Information Management & Information Systems · Bacharelado (programa de transição)  
-  2014.03 – 2017.09
-
--  **Jiangsu City Vocational College** · Mecatrônica / Tecnologia de Aplicação de Computador · Título de Associado  
-  2005.09 – 2009.07  
+-  **Nanjing University** · Information Management & Information Systems · Bacharelado
 
 ---
 

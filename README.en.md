@@ -132,11 +132,7 @@ So I chose to **return to product and engineering themselves**, and focus my ene
 
 ## Education
 
--  **Nanjing University** · Information Management & Information Systems · Bachelor (top‑up program)  
-  2014.03 – 2017.09  
-
--  **Jiangsu City Vocational College** · Mechatronics / Computer Application Technology · Associate Degree  
-  2005.09 – 2009.07  
+-  **Nanjing University** · Information Management & Information Systems · Bachelor
 
 ---
 

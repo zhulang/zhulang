@@ -132,11 +132,7 @@
 
 ## Освіта
 
--  **Nanjing University** · Information Management & Information Systems · Бакалавр (програма переходу)  
-  2014.03 – 2017.09
-
--  **Jiangsu City Vocational College** · Мехатроніка / Технологія застосування комп'ютерів · Асоційований ступінь  
-  2005.09 – 2009.07  
+-  **Nanjing University** · Information Management & Information Systems · Бакалавр
 
 ---
 

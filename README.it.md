@@ -132,11 +132,7 @@ Per questo ho deciso di **tornare al prodotto e all’ingegneria** e concentrarm
 
 ## Istruzione
 
--  **Nanjing University** · Information Management & Information Systems · Laurea (programma di transizione)  
-  2014.03 – 2017.09
-
--  **Jiangsu City Vocational College** · Meccatronica / Tecnologia di applicazione informatica · Diploma di associato  
-  2005.09 – 2009.07  
+-  **Nanjing University** · Information Management & Information Systems · Laurea
 
 ---
 

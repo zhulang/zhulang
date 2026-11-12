@@ -129,11 +129,7 @@ Deshalb habe ich mich entschieden, **zu Produkt und Engineering selbst zurückzu
 
 ## Ausbildung
 
--  **Nanjing University** · Information Management & Information Systems · Bachelor (Top‑Up)  
-  2014.03 – 2017.09
-
--  **Jiangsu City Vocational College** · Mechatronik / Computeranwendung · Associate Degree  
-  2005.09 – 2009.07  
+-  **Nanjing University** · Information Management & Information Systems · Bachelor
 
 ---
 

@@ -133,11 +133,7 @@ J’ai donc choisi de **revenir au produit et à l’ingénierie eux‑mêmes**,
 
 ## Formation
 
--  **Nanjing University** · Information Management & Information Systems · Licence (programme de transition)  
-  2014.03 – 2017.09
-
--  **Jiangsu City Vocational College** · Mécatronique / Technologies informatiques · Diplôme d'associé  
-  2005.09 – 2009.07  
+-  **Nanjing University** · Information Management & Information Systems · Licence
 
 ---
 
